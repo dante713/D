@@ -41,7 +41,7 @@ body {
   position: fixed;
   inset: 0;
   z-index: -1;
-  background: var(--paper) url("images/bg.jpg") center top / cover no-repeat;
+  background: var(--paper) url("bg.jpg") center top / cover no-repeat;
 }
 
 /* ---------- الواجهة ---------- */
